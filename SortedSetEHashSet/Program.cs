@@ -8,6 +8,7 @@ namespace SortedSetEHashSet
         static void Main(string[] args)
         {
             Console.WriteLine("teste git");
+            Console.WriteLine("GIT 2");
 
             HashSet<string> set = new HashSet<string>();
 
