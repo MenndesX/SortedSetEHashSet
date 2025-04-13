@@ -7,6 +7,8 @@ namespace SortedSetEHashSet
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("teste git");
+
             HashSet<string> set = new HashSet<string>();
 
             set.Add("teclado");
