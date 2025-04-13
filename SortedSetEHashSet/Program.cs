@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Globalization;
 
 namespace SortedSetEHashSet
 {
@@ -10,7 +11,7 @@ namespace SortedSetEHashSet
             Console.WriteLine("teste git");
             Console.WriteLine("GIT 2");
             Console.WriteLine("git3");
-
+            //Console.WriteLine("git4");
             HashSet<string> set = new HashSet<string>();
 
             set.Add("teclado");
